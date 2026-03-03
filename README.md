@@ -2,7 +2,7 @@
 
 This project analyzes customer churn for a European bank using Excel, Power Query, and Pivot Tables.
 The goal is to understand customer demographics, identify churn patterns, and highlight the key factors that influence customer attrition.
-The dataset contains 10,000 customer records, including credit score, geography, gender, age, balance, products, activity status, and churn flag
+The dataset contains 9,978 customer records , including credit score, geography, gender, age, balance, products, activity status, and churn flag
 
 Tools Used
 - Microsoft Excel
