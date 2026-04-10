@@ -17,3 +17,7 @@ Summary of Insights
 - Inactive customers churn significantly more than active ones.
 - Customers with 1 product churn more than those with multiple products.
 - Churn is more common in middle-aged groups (28–47).
+
+- Dashboard Summary
+
+This dashboard analyzes customer churn in a European bank, highlighting key factors affecting customer retention. The results show that churn is higher among customers in Germany, inactive users, and those with only one product. Additionally, customers with high balances and middle-aged groups (28–47) are more likely to churn.
